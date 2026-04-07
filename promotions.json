@@ -1,0 +1,47 @@
+{
+  "_meta": {
+    "week": "Week of Apr 7, 2026",
+    "generated_at": "2026-04-07T08:00:00Z",
+    "expires_at": "2026-04-13T23:59:00Z",
+    "source": "manual"
+  },
+  "woolworths": [
+    { "id": "w-apple",     "multiplier": "20", "visas": ["whv","student","tss","pr"], "active": true,  "expires": "2026-04-13" },
+    { "id": "w-uber",      "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "w-gplay",     "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "w-doordash",  "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "w-hoyts",     "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "w-webjet",    "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "w-redbal",    "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "w-timezone",  "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "w-amazon",    "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "w-ultimate",  "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "w-kids",      "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "w-teen",      "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "w-him",       "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "w-her",       "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "w-home",      "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "w-active",    "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "w-baby",      "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "w-birthday",  "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "w-celebrate", "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "w-thankyou",  "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "w-party",     "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "w-love",      "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null }
+  ],
+  "coles": [
+    { "id": "c-apple",      "multiplier": "20", "visas": ["whv","student","tss","pr"], "active": true,  "expires": "2026-04-13" },
+    { "id": "c-jbhifi",     "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "c-ubereats",   "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "c-gplay",      "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "c-mastercard", "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "c-cinema",     "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "c-goodfood",   "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "c-him",        "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "c-her",        "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "c-pubbar",     "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "c-shop",       "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "c-pamper",     "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null },
+    { "id": "c-gift",       "multiplier": "off","visas": ["whv","student","tss","pr"], "active": false, "expires": null }
+  ]
+}
