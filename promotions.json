@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "week": "Week of Apr 7, 2026",
-    "generated_at": "2026-04-07T22:00:13.588Z",
-    "expires_at": "2026-04-14T22:00:13.588Z",
+    "week": "Week of 8 April 2026",
+    "generated_at": "2026-04-07T22:00:21.995Z",
+    "expires_at": "2026-04-14T22:00:21.995Z",
     "source": "n8n-auto"
   },
   "woolworths": [
@@ -116,135 +116,135 @@
     },
     {
       "id": "w-ultimate",
-      "multiplier": "off",
+      "multiplier": "20",
       "visas": [
         "whv",
         "student",
         "tss",
         "pr"
       ],
-      "active": false,
-      "expires": null
+      "active": true,
+      "expires": "2026-04-14"
     },
     {
       "id": "w-kids",
-      "multiplier": "off",
+      "multiplier": "20",
       "visas": [
         "whv",
         "student",
         "tss",
         "pr"
       ],
-      "active": false,
-      "expires": null
+      "active": true,
+      "expires": "2026-04-14"
     },
     {
       "id": "w-teen",
-      "multiplier": "off",
+      "multiplier": "20",
       "visas": [
         "whv",
         "student",
         "tss",
         "pr"
       ],
-      "active": false,
-      "expires": null
+      "active": true,
+      "expires": "2026-04-14"
     },
     {
       "id": "w-him",
-      "multiplier": "off",
+      "multiplier": "20",
       "visas": [
         "whv",
         "student",
         "tss",
         "pr"
       ],
-      "active": false,
-      "expires": null
+      "active": true,
+      "expires": "2026-04-14"
     },
     {
       "id": "w-her",
-      "multiplier": "off",
+      "multiplier": "20",
       "visas": [
         "whv",
         "student",
         "tss",
         "pr"
       ],
-      "active": false,
-      "expires": null
+      "active": true,
+      "expires": "2026-04-14"
     },
     {
       "id": "w-home",
-      "multiplier": "off",
+      "multiplier": "20",
       "visas": [
         "whv",
         "student",
         "tss",
         "pr"
       ],
-      "active": false,
-      "expires": null
+      "active": true,
+      "expires": "2026-04-14"
     },
     {
       "id": "w-active",
-      "multiplier": "off",
+      "multiplier": "20",
       "visas": [
         "whv",
         "student",
         "tss",
         "pr"
       ],
-      "active": false,
-      "expires": null
+      "active": true,
+      "expires": "2026-04-14"
     },
     {
       "id": "w-baby",
-      "multiplier": "off",
+      "multiplier": "20",
       "visas": [
         "whv",
         "student",
         "tss",
         "pr"
       ],
-      "active": false,
-      "expires": null
+      "active": true,
+      "expires": "2026-04-14"
     },
     {
       "id": "w-birthday",
-      "multiplier": "off",
+      "multiplier": "20",
       "visas": [
         "whv",
         "student",
         "tss",
         "pr"
       ],
-      "active": false,
-      "expires": null
+      "active": true,
+      "expires": "2026-04-14"
     },
     {
       "id": "w-celebrate",
-      "multiplier": "off",
+      "multiplier": "20",
       "visas": [
         "whv",
         "student",
         "tss",
         "pr"
       ],
-      "active": false,
-      "expires": null
+      "active": true,
+      "expires": "2026-04-14"
     },
     {
       "id": "w-thankyou",
-      "multiplier": "off",
+      "multiplier": "20",
       "visas": [
         "whv",
         "student",
         "tss",
         "pr"
       ],
-      "active": false,
-      "expires": null
+      "active": true,
+      "expires": "2026-04-14"
     },
     {
       "id": "w-party",
@@ -310,15 +310,15 @@
     },
     {
       "id": "c-gplay",
-      "multiplier": "off",
+      "multiplier": "20",
       "visas": [
         "whv",
         "student",
         "tss",
         "pr"
       ],
-      "active": false,
-      "expires": null
+      "active": true,
+      "expires": "2026-04-14"
     },
     {
       "id": "c-mastercard",
@@ -358,27 +358,27 @@
     },
     {
       "id": "c-him",
-      "multiplier": "off",
+      "multiplier": "20",
       "visas": [
         "whv",
         "student",
         "tss",
         "pr"
       ],
-      "active": false,
-      "expires": null
+      "active": true,
+      "expires": "2026-04-14"
     },
     {
       "id": "c-her",
-      "multiplier": "off",
+      "multiplier": "20",
       "visas": [
         "whv",
         "student",
         "tss",
         "pr"
       ],
-      "active": false,
-      "expires": null
+      "active": true,
+      "expires": "2026-04-14"
     },
     {
       "id": "c-pubbar",
