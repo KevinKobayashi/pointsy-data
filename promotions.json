@@ -1,10 +1,166 @@
 {
   "_meta": {
     "week": "Week of 9 Apr 2026",
-    "generated_at": "2026-04-09T06:57:05.134Z",
-    "expires_at": "2026-04-13T06:57:05.134Z",
+    "generated_at": "2026-04-09T06:57:18.327Z",
+    "expires_at": "2026-04-13T06:57:18.327Z",
     "source": "n8n-auto"
   },
-  "woolworths": [],
-  "coles": []
+  "woolworths": [
+    {
+      "id": "w-ultimate",
+      "multiplier": "20",
+      "visas": [
+        "whv",
+        "student",
+        "tss",
+        "pr"
+      ],
+      "active": true
+    },
+    {
+      "id": "w-kids",
+      "multiplier": "20",
+      "visas": [
+        "whv",
+        "student",
+        "tss",
+        "pr"
+      ],
+      "active": true
+    },
+    {
+      "id": "w-teen",
+      "multiplier": "20",
+      "visas": [
+        "whv",
+        "student",
+        "tss",
+        "pr"
+      ],
+      "active": true
+    },
+    {
+      "id": "w-him",
+      "multiplier": "20",
+      "visas": [
+        "whv",
+        "student",
+        "tss",
+        "pr"
+      ],
+      "active": true
+    },
+    {
+      "id": "w-her",
+      "multiplier": "20",
+      "visas": [
+        "whv",
+        "student",
+        "tss",
+        "pr"
+      ],
+      "active": true
+    },
+    {
+      "id": "w-baby",
+      "multiplier": "20",
+      "visas": [
+        "whv",
+        "student",
+        "tss",
+        "pr"
+      ],
+      "active": true
+    },
+    {
+      "id": "w-home",
+      "multiplier": "20",
+      "visas": [
+        "whv",
+        "student",
+        "tss",
+        "pr"
+      ],
+      "active": true
+    },
+    {
+      "id": "w-thankyou",
+      "multiplier": "20",
+      "visas": [
+        "whv",
+        "student",
+        "tss",
+        "pr"
+      ],
+      "active": true
+    },
+    {
+      "id": "w-celebrate",
+      "multiplier": "20",
+      "visas": [
+        "whv",
+        "student",
+        "tss",
+        "pr"
+      ],
+      "active": true
+    },
+    {
+      "id": "w-active",
+      "multiplier": "20",
+      "visas": [
+        "whv",
+        "student",
+        "tss",
+        "pr"
+      ],
+      "active": true
+    },
+    {
+      "id": "w-birthday",
+      "multiplier": "20",
+      "visas": [
+        "whv",
+        "student",
+        "tss",
+        "pr"
+      ],
+      "active": true
+    }
+  ],
+  "coles": [
+    {
+      "id": "c-him",
+      "multiplier": "20",
+      "visas": [
+        "whv",
+        "student",
+        "tss",
+        "pr"
+      ],
+      "active": true
+    },
+    {
+      "id": "c-her",
+      "multiplier": "20",
+      "visas": [
+        "whv",
+        "student",
+        "tss",
+        "pr"
+      ],
+      "active": true
+    },
+    {
+      "id": "c-gplay",
+      "multiplier": "20",
+      "visas": [
+        "whv",
+        "student",
+        "tss",
+        "pr"
+      ],
+      "active": true
+    }
+  ]
 }
