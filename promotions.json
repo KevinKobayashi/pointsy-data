@@ -1,56 +1,10 @@
 {
   "_meta": {
     "week": "10 Apr 2026 – 17 Apr 2026",
-    "generated_at": "2026-04-10T06:46:21.130Z",
-    "expires_at": "2026-04-17T06:46:21.130Z",
+    "generated_at": "2026-04-10T06:46:28.494Z",
+    "expires_at": "2026-04-17T06:46:28.494Z",
     "source": "n8n-auto"
   },
-  "woolworths": [
-    {
-      "id": "w-ultimate",
-      "multiplier": "20",
-      "visas": [
-        "whv",
-        "student",
-        "tss",
-        "pr"
-      ],
-      "active": true
-    }
-  ],
-  "coles": [
-    {
-      "id": "c-gplay",
-      "multiplier": "5",
-      "visas": [
-        "whv",
-        "student",
-        "tss",
-        "pr"
-      ],
-      "active": true
-    },
-    {
-      "id": "c-him",
-      "multiplier": "5",
-      "visas": [
-        "whv",
-        "student",
-        "tss",
-        "pr"
-      ],
-      "active": true
-    },
-    {
-      "id": "c-her",
-      "multiplier": "5",
-      "visas": [
-        "whv",
-        "student",
-        "tss",
-        "pr"
-      ],
-      "active": true
-    }
-  ]
+  "woolworths": [],
+  "coles": []
 }
