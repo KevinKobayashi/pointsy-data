@@ -13,8 +13,9 @@ const SOURCES = {
     'https://gcdb.com.au/article/weekly-gift-card-offers/'
   ],
   creditCards: [
-    // Finty removido — certificado SSL expirado
-    'https://www.pointhacks.com.au/credit-cards/australia/'
+    'https://www.pointhacks.com.au/credit-cards/noteworthy-credit-card-offers/',
+    'https://www.pointhacks.com.au/qantas/best-frequent-flyer-credit-card/',
+    'https://www.pointhacks.com.au/velocity/best-frequent-flyer-credit-card/'
   ]
 };
 
