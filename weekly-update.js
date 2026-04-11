@@ -13,14 +13,13 @@ const SOURCES = {
     'https://gcdb.com.au/article/weekly-gift-card-offers/'
   ],
   creditCards: [
-    'https://www.pointhacks.com.au/credit-cards/noteworthy-credit-card-offers/',
-    'https://www.pointhacks.com.au/qantas/best-frequent-flyer-credit-card/',
-    'https://www.pointhacks.com.au/velocity/best-frequent-flyer-credit-card/'
+    // Finty removido — certificado SSL expirado
+    'https://www.pointhacks.com.au/credit-cards/australia/'
   ]
 };
 
 const KNOWN_IDS = {
-  woolworths: ['w-apple','w-uber','w-gplay','w-doordash','w-hoyts','w-webjet','w-redbal','w-timezone','w-amazon','w-ultimate','w-kids','w-teen','w-him','w-her','w-home','w-active','w-baby','w-birthday','w-celebrate','w-thankyou','w-party','w-love'],
+  woolworths: ['w-apple','w-uber','w-gplay','w-doordash','w-hoyts','w-webjet','w-redbal','w-timezone','w-amazon','w-ultimate','w-kids','w-teen','w-him','w-her','w-home','w-active','w-baby','w-birthday','w-celebrate','w-thankyou','w-party','w-love','w-student','w-everyone'],
   coles: ['c-apple','c-jbhifi','c-ubereats','c-gplay','c-mastercard','c-cinema','c-goodfood','c-him','c-her','c-pubbar','c-shop','c-pamper','c-gift','c-netflix','c-stan'],
   creditCards: ['amex-platinum','amex-platinum-edge','amex-explorer','anz-ff-black','anz-ff','westpac-altitude-black','westpac-altitude-platinum','cba-smart-awards','cba-diamond-awards','nab-qantas-signature']
 };
