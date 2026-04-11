@@ -1,18 +1,30 @@
 {
   "_meta": {
-    "week": "10 Apr – 16 Apr 2026",
-    "generated_at": "2026-04-10T12:00:00Z",
-    "expires_at": "2026-04-16T23:59:00Z",
+    "week": "11 Apr – 17 Apr 2026",
+    "generated_at": "2026-04-11T12:00:00Z",
+    "expires_at": "2026-04-17T23:59:00Z",
     "source": "manual"
   },
   "woolworths": [
-    { "id": "w-ultimate", "multiplier": "20", "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-16" }
+    { "id": "w-ultimate", "multiplier": "20", "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-17" },
+    { "id": "w-kids",     "multiplier": "20", "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-17" },
+    { "id": "w-teen",     "multiplier": "20", "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-17" },
+    { "id": "w-him",      "multiplier": "20", "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-17" },
+    { "id": "w-her",      "multiplier": "20", "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-17" },
+    { "id": "w-baby",     "multiplier": "20", "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-17" },
+    { "id": "w-home",     "multiplier": "20", "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-17" },
+    { "id": "w-thankyou", "multiplier": "20", "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-17" },
+    { "id": "w-celebrate","multiplier": "20", "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-17" },
+    { "id": "w-active",   "multiplier": "20", "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-17" },
+    { "id": "w-birthday", "multiplier": "20", "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-17" },
+    { "id": "w-student",  "multiplier": "20", "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-17" },
+    { "id": "w-everyone", "multiplier": "20", "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-17" }
   ],
   "coles": [
-    { "id": "c-him",     "multiplier": "fixed_pts", "promoMeta": { "pts": 1000, "per_spend": 50 }, "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-16" },
-    { "id": "c-her",     "multiplier": "fixed_pts", "promoMeta": { "pts": 1000, "per_spend": 50 }, "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-16" },
-    { "id": "c-gplay",   "multiplier": "fixed_pts", "promoMeta": { "pts": 1000, "per_spend": 50 }, "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-16" },
-    { "id": "c-netflix", "multiplier": "fixed_pts", "promoMeta": { "pts": 1000, "per_spend": 50 }, "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-16" },
-    { "id": "c-stan",    "multiplier": "fixed_pts", "promoMeta": { "pts": 1000, "per_spend": 50 }, "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-16" }
+    { "id": "c-him",     "multiplier": "fixed_pts", "promoMeta": { "pts": 1000, "per_spend": 50 }, "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-17" },
+    { "id": "c-her",     "multiplier": "fixed_pts", "promoMeta": { "pts": 1000, "per_spend": 50 }, "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-17" },
+    { "id": "c-gplay",   "multiplier": "fixed_pts", "promoMeta": { "pts": 1000, "per_spend": 50 }, "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-17" },
+    { "id": "c-netflix", "multiplier": "fixed_pts", "promoMeta": { "pts": 1000, "per_spend": 50 }, "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-17" },
+    { "id": "c-stan",    "multiplier": "fixed_pts", "promoMeta": { "pts": 1000, "per_spend": 50 }, "visas": ["whv","student","tss","pr"], "active": true, "expires": "2026-04-17" }
   ]
 }
